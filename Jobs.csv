@@ -1,0 +1,50 @@
+﻿Job Title,Company,City,Python,SQL,PowerBI,Tableau,Excel,AWS,MachineLearning
+Data Analyst,Deloitte,Sydney,Yes,Yes,Yes,No,Yes,No,No
+Data Scientist,Amazon,Sydney,Yes,Yes,No,No,Yes,Yes,Yes
+Junior Data Scientist,Canva,Melbourne,Yes,Yes,No,No,Yes,No,Yes
+Data Analyst,Westpac,Sydney,No,Yes,Yes,Yes,Yes,No,No
+Data Scientist,Commonwealth Bank,Sydney,Yes,Yes,No,No,Yes,Yes,Yes
+Business Analyst,Telstra,Melbourne,No,Yes,Yes,No,Yes,No,No
+Data Analyst,KPMG,Sydney,No,Yes,Yes,Yes,Yes,No,No
+Machine Learning Engineer,Google,Sydney,Yes,Yes,No,No,No,Yes,Yes
+Data Analyst,ANZ,Melbourne,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Atlassian,Sydney,Yes,Yes,No,No,Yes,Yes,Yes
+Data Analyst,Optus,Sydney,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Microsoft,Sydney,Yes,Yes,No,No,No,Yes,Yes
+BI Analyst,Woolworths,Sydney,No,Yes,Yes,Yes,Yes,No,No
+Data Analyst,Coles,Melbourne,No,Yes,Yes,No,Yes,No,No
+Data Scientist,IBM,Sydney,Yes,Yes,No,No,Yes,Yes,Yes
+Data Analyst,Macquarie Bank,Sydney,No,Yes,Yes,No,Yes,No,No
+Data Scientist,NAB,Melbourne,Yes,Yes,No,No,Yes,Yes,Yes
+Data Analyst,Accenture,Sydney,No,Yes,Yes,Yes,Yes,No,No
+ML Engineer,CSIRO,Canberra,Yes,Yes,No,No,No,Yes,Yes
+Data Analyst,REA Group,Melbourne,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Afterpay,Sydney,Yes,Yes,No,No,Yes,Yes,Yes
+Data Analyst,Uber,Sydney,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Airbnb,Sydney,Yes,Yes,No,No,Yes,Yes,Yes
+BI Analyst,BHP,Perth,No,Yes,Yes,Yes,Yes,No,No
+Data Analyst,Qantas,Sydney,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Stripe,Sydney,Yes,Yes,No,No,Yes,Yes,Yes
+Data Analyst,MYOB,Melbourne,No,Yes,Yes,No,Yes,No,No
+ML Engineer,Salesforce,Sydney,Yes,Yes,No,No,No,Yes,Yes
+Data Analyst,Canva,Sydney,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Shopify,Sydney,Yes,Yes,No,No,Yes,Yes,Yes
+Data Analyst,Telstra,Sydney,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Oracle,Sydney,Yes,Yes,No,No,No,Yes,Yes
+BI Analyst,Origin Energy,Melbourne,No,Yes,Yes,Yes,Yes,No,No
+Data Analyst,Fortescue,Perth,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Adobe,Sydney,Yes,Yes,No,No,Yes,Yes,Yes
+Data Analyst,Xero,Melbourne,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Meta,Sydney,Yes,Yes,No,No,Yes,Yes,Yes
+Data Analyst,Uber Eats,Sydney,No,Yes,Yes,No,Yes,No,No
+ML Engineer,OpenAI,Sydney,Yes,Yes,No,No,No,Yes,Yes
+Data Analyst,Commonwealth Bank,Melbourne,No,Yes,Yes,No,Yes,No,No
+Data Scientist,NAB,Sydney,Yes,Yes,No,No,Yes,Yes,Yes
+BI Analyst,ANZ,Sydney,No,Yes,Yes,Yes,Yes,No,No
+Data Analyst,Macquarie Group,Sydney,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Google,Melbourne,Yes,Yes,No,No,No,Yes,Yes
+Data Analyst,Amazon,Sydney,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Atlassian,Melbourne,Yes,Yes,No,No,Yes,Yes,Yes
+Data Analyst,IBM,Sydney,No,Yes,Yes,No,Yes,No,No
+Data Scientist,Microsoft,Melbourne,Yes,Yes,No,No,No,Yes,Yes
+Data Analyst,Accenture,Melbourne,No,Yes,Yes,Yes,Yes,No,No
